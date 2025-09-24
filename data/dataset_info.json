@@ -1,4 +1,8 @@
 {
+  "llama_convo": {
+    "file_name": "llama_finetune_dataset.json",
+    "formatting": "alpaca"
+  },
   "identity": {
     "file_name": "identity.json"
   },
